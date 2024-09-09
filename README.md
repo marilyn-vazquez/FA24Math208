@@ -5,3 +5,9 @@
   [early_january_weather](https://rdrr.io/cran/moderndive/man/early_january_weather.html) - from moderndive package in R    
 
   [diamonds](https://www.rdocumentation.org/packages/ggplot2/versions/3.5.0/topics/diamonds) - from ggplot2 package in R    
+
+  tableA - table2 from tidyverse package in R
+
+  tableB - table1 from tidyverse package in R
+
+  tableC - table3 from tidyverse package in R
