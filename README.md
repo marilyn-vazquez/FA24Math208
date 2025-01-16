@@ -6,7 +6,7 @@
 
   [diamonds](https://www.rdocumentation.org/packages/ggplot2/versions/3.5.0/topics/diamonds) - from ggplot2 package in R    
 
-  [DairyData](https://www.ers.usda.gov/data-products/dairy-data) - compiled from USDA. See documentation: https://www.ers.usda.gov/data-products/dairy-data/documentation.
+  [DairyData](https://www.ers.usda.gov/data-products/dairy-data/documentation) - compiled from USDA (source: https://www.ers.usda.gov/data-products/dairy-data) 
 
   tableA - table2 from tidyverse package in R
 
