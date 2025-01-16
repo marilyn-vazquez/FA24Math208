@@ -15,3 +15,5 @@
   tableC - table3 from tidyverse package in R
 
   QuittingJupyter - a screenshot of how to quit Jupyter Noteboook
+
+  Synthetic_Data - I created this dataset to help students understand data models. The first column is supposed to be the independent variable and the other columns are examples of different dependent variables. 
