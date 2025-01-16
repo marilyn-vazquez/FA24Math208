@@ -8,6 +8,8 @@
 
   [DairyData](https://www.ers.usda.gov/data-products/dairy-data/documentation) - compiled from USDA data from January 2011 until October of 2023. (source: https://www.ers.usda.gov/data-products/dairy-data) 
 
+  [penguins](https://cran.r-project.org/web/packages/palmerpenguins/palmerpenguins.pdf) - from palmerpenguins package in R
+
   tableA - table2 from tidyverse package in R
 
   tableB - table1 from tidyverse package in R
