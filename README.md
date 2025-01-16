@@ -13,3 +13,5 @@
   tableB - table1 from tidyverse package in R
 
   tableC - table3 from tidyverse package in R
+
+  QuittingJupyter - a screenshot of how to quit Jupyter Noteboook
